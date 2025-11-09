@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💬 About Me
-I'm a Microsoft PM driving UX, DevX, and AI initiatives across Azure IoT and Azure Local. Most recently, I've been focused on [Azure IoT Operations](https://azure.microsoft.com/en-us/products/iot-operations/?msockid=1fc1d46fcef861171b78c783cfd5605b). Ask me about it!
+I'm a product manager at Microsoft, driving UX, DevX, and AI initiatives across Azure IoT and Azure Local. Most recently, I've been focused on [Azure IoT Operations](https://azure.microsoft.com/en-us/products/iot-operations/?msockid=1fc1d46fcef861171b78c783cfd5605b). Ask me about it!
 
 
 ## 💻 My Tech Stack
